@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/caricia-eterna/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [License this song: Caricia eterna](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/caricia-eterna/) |
+| **Get License** | [Get License For Caricia eterna](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/caricia-eterna/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Baby, tú eres la dueña de mi madrugada
+> Esa caricia eterna me deja el alma atada
+> Un beso con sabor a luxury y deseo
+> You're my only one, la reina que yo veo
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
