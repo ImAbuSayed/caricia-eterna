@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Caricia eterna
+
+This log tracks the cryptographic history and versioning for the song **Caricia eterna** (caricia-eterna).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-16T15:06:16.369374 | `v1` | `424d2a6918a1f2ac7bdac27851dd0e45683877208210a3afc7e892f4e3422782` | `9f6878225b8280e523a29c13731468e1664fc68b1c28508a526974cb8b7f42fd` | `2026-06-16_caricia-eterna-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*

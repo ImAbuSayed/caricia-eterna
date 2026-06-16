@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/caricia-eterna/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get License For Caricia eterna](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/caricia-eterna/) |
+| **Get License** | [Request Licensing for Caricia eterna](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/caricia-eterna/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `424d2a6918a1f2ac7bdac27851dd0e45683877208210a3afc7e892f4e3422782` |
 | **Timestamp** | June 16, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
